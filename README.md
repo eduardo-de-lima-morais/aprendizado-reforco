@@ -1,3 +1,3 @@
 Aprendizado por reforço
 
-Utilizando Aprendizado por reforço em jogos, utilizando Python.
+Utilizando aprendizado por reforço em jogos, utilizando Python.
